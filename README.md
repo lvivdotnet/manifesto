@@ -16,6 +16,7 @@ During our community work, we have identified following ideas which we shaped in
 - We value being global and diverse, learning from various cultures and communities
 - We value openness and transparency
 - We value continuous collaboration
+- We celebrate success and learn from it, as well as from our mistakes
 
 # References
 - Facebook
