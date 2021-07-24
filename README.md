@@ -13,7 +13,7 @@ During our community work, we have identified following ideas which we shaped in
 - We value personal and professional growth
 - We value leadership skills and leading by example
 - We value proactivity in every form
-- We value being global and diverse, learning from various cultures
+- We value being global and diverse, learning from various cultures and communities
 - We value openness and transparency
 - We value continuous collaboration
 
