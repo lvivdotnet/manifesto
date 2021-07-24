@@ -15,7 +15,7 @@ During our community work, we have identified following ideas which we shaped in
 - We value proactivity in every form
 - We value being global and diverse, learning from various cultures
 - We value openness and transparency
-
+- We value continuous collaboration
 
 # References
 - Facebook
