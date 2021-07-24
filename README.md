@@ -17,6 +17,7 @@ During our community work, we have identified following ideas which we shaped in
 - We value openness and transparency
 - We value continuous collaboration
 - We celebrate success and learn from it, as well as from our mistakes
+- We support our members in various tough life situations which does not go against our community standards
 
 # References
 - Facebook
